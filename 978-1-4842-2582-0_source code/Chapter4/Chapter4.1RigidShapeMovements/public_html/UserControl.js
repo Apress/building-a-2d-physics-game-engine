@@ -39,7 +39,7 @@ function userControl(event) {
         gEngine.Core.mAllObjects[gObjectNum].move(new Vec2(0, +10));
     }
     if (keycode === 65) { //A
-        gEngine.Core.mAllObject[gObjectNum].move(new Vec2(-10, 0));
+        gEngine.Core.mAllObjects[gObjectNum].move(new Vec2(-10, 0));
     }
     if (keycode === 68) { //D
         gEngine.Core.mAllObjects[gObjectNum].move(new Vec2(10, 0));
