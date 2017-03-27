@@ -2,7 +2,7 @@
 
 This repository accompanies [*Building a 2D Physics Game Engine*](http://www.apress.com/9781484225820) by Michael Tanaya, Huaming Chen, Jebediah Pavleas, and Kelvin Sung (Apress, 2017).
 
-![Cover image](9781484225820.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
